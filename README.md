@@ -61,8 +61,8 @@ Sparklines to visualise individual trend histories
 Sparklines (column) for target win/loss status over time.
 
 •	Business Impact & Insights
-Performance Tracking: Leadership can instantly recognise that the overarching target was only met 2 out of 14 months, signaling a need for strategic adjustments.
-Sales Coaching: By looking at individual sparklines and variance percentages, managers can identify top performers (like Kaine Padly with a 9.0% positive variance) and reps needing support.
+Performance Tracking: Leadership can instantly recognise that the overarching target was only met 2 out of 14 months, signaling a need for strategic adjustments. 
+Sales Coaching: By looking at individual sparklines and variance percentages, managers can identify top performers (like Kaine Padly with a 9.0% positive variance) and reps needing support. 
 Automated Reporting: Smart narratives and dynamic titles automate the storytelling process, dynamically pulling in text insights to save analysts time from having to manually write out monthly performance summaries.
 
 ### 6.	Screenshots / Demos
