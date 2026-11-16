@@ -15,15 +15,15 @@ The dashboard was built using the following tools and technologies:<br>
 •	📁 File Format – .pbix for development and .png for dashboard previews.
 
 ### 4.	Data Source
-Source: Custom finance data tables (associated with the "Awesome Chocolates" dataset) provided in Chandoo's Power BI tutorial.
+Source: Custom finance data tables (associated with the "Awesome Chocolates" dataset) provided in Chandoo's Power BI tutorial.<br>
 
 **Tutorial Reference:** [Make an Incredible Finance KPI Dashboard with Power BI in 20 minutes](https://www.youtube.com/watch?v=i3AR0gt9SHA) on YouTube.
 
-The data is structured across four tables:
-- **Actual performance table:** Contains monthly sales achievements per salesperson.
-- **Targets table:** Contains the monthly sales goals assigned to each salesperson.
-- **Calendar Dimension:** A simplified date table (spanning 14 months, ending Feb 2024).
-- **People Dimension:** Contains details about the salespeople and their respective teams (e.g., Delish, Jucies, Tempo, Yummies) and image URLs for table visuals.
+The data is structured across four tables:<br>
+- **Actual performance table:** Contains monthly sales achievements per salesperson.<br>
+- **Targets table:** Contains the monthly sales goals assigned to each salesperson.<br>
+- **Calendar Dimension:** A simplified date table (spanning 14 months, ending Feb 2024).<br>
+- **People Dimension:** Contains details about the salespeople and their respective teams (e.g., Delish, Jucies, Tempo, Yummies) and image URLs for table visuals.<br>
 
 ### 5.	Features / Highlights
 •	Business Problem
