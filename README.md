@@ -54,11 +54,10 @@ Clustered Column Chart for Months Target Reached: 2 <br>
 It features conditional formatting and a dynamic title ("We met targets for 2 out of 14 months") that automatically updates based on the selected team <br>
 - Smart Narrative (Top Right): An automatically generated text box summarising key metric changes<br>
 - Team Slicers (Bottom Right): Interactive filters allowing the user to slice the data by distinct teams: Delish, Jucies, Tempo, and Yummies.<br>
-- Detailed Salesperson Table (Bottom Center): A comprehensive table showing individual rep data (Picture, Sales person, Actual, Target). 
-It uses conditional formatting:<br>
-- Data bars for Variance % <br>
-- Sparklines to visualise individual trend histories <br>
-- Sparklines (column) for target win/loss status over time. <br>
+- Detailed Salesperson Table (Bottom Center): A comprehensive table showing individual rep data (Picture, Sales person, Actual, Target). It uses conditional formatting:<br>
+Data bars for Variance % <br>
+Sparklines to visualise individual trend histories <br>
+Sparklines (column) for target win/loss status over time. <br>
 
 •	Business Impact & Insights<br>
 Performance Tracking: Leadership can instantly recognise that the overarching target was only met 2 out of 14 months, signaling a need for strategic adjustments.<br>
