@@ -41,22 +41,20 @@ Transforms raw matrix data into clear, actionable insights.
 Allows leadership to track 14 months of historical sales actuals vs. targets at a glance.
 Enables managers to filter and drill down into specific team and individual performance trends.
 
-•	Walkthrough of Key Visuals
--	Key KPIs (Left Panel)
-Total Sales Actual: 19M
-Total Sales Target: 19M
-Variance: (367K)
-Variance Pct Label: 1.9% with a dynamic red indicator emoji
-Clustered Column Chart for Months Target Reached: 2
-*Includes Year-to-Date (YTD) reference labels for context
--	Win/Loss & Trend Chart (Center)
-An overlapping column chart comparing actuals (strong color) and targets (faded, 50% transparent color). It features conditional formatting and a dynamic title ("We met targets for 2 out of 14 months") that automatically updates based on the selected team<br>
-- Smart Narrative (Top Right)<br>
-An automatically generated text box summarising key metric changes<br>
-- Team Slicers (Bottom Right)<br>
-Interactive filters allowing the user to slice the data by distinct teams: Delish, Jucies, Tempo, and Yummies.<br>
-- Detailed Salesperson Table (Bottom Center)<br>
-A comprehensive table showing individual rep data (Picture, Sales person, Actual, Target). It uses conditional formatting:<br>
+•	Walkthrough of Key Visuals <br>
+-	Key KPIs (Left Panel) <br>
+Total Sales Actual: 19M <br>
+Total Sales Target: 19M <br>
+Variance: (367K) <br>
+Variance Pct Label: 1.9% with a dynamic red indicator emoji <br>
+Clustered Column Chart for Months Target Reached: 2 <br>
+*Includes Year-to-Date (YTD) reference labels for context <br>
+
+-	Win/Loss & Trend Chart (Center): An overlapping column chart comparing actuals (strong color) and targets (faded, 50% transparent color). <br>
+It features conditional formatting and a dynamic title ("We met targets for 2 out of 14 months") that automatically updates based on the selected team <br>
+- Smart Narrative (Top Right): An automatically generated text box summarising key metric changes<br>
+- Team Slicers (Bottom Right): Interactive filters allowing the user to slice the data by distinct teams: Delish, Jucies, Tempo, and Yummies.<br>
+- Detailed Salesperson Table (Bottom Center): A comprehensive table showing individual rep data (Picture, Sales person, Actual, Target). It uses conditional formatting:<br>
 Data bars for Variance % <br>
 Sparklines to visualise individual trend histories <br>
 Sparklines (column) for target win/loss status over time. <br>
