@@ -27,13 +27,13 @@ The data is structured across four tables:<br>
 
 ### 5.	Features / Highlights
 •	Business Problem
-Financial and sales data is often maintained in giant, complex matrix-style pivot tables, making it difficult to analyse. 
+Financial and sales data is often maintained in giant, complex matrix-style pivot tables, making it difficult to analyse.<br> 
 
-Key questions such as:
-How many months did we actually hit our targets?
-Which salespeople are consistently performing well?
-What is the overall year-to-date variance?
-… are difficult to answer quickly with raw data.
+Key questions such as:<br>
+How many months did we actually hit our targets?<br>
+Which salespeople are consistently performing well?<br>
+What is the overall year-to-date variance?<br>
+… are difficult to answer quickly with raw data.<br>
 
 •	Goal of the Dashboard
 To deliver an interactive visual tool that:
