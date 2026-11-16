@@ -47,7 +47,7 @@ Total Sales Actual: 19M
 Total Sales Target: 19M
 Variance: (367K)
 Variance Pct Label: 1.9% with a dynamic red indicator emoji
-Months Target Reached: 2
+Clustered Column Chart for Months Target Reached: 2
 *Includes Year-to-Date (YTD) reference labels for context
 -	Win/Loss & Trend Chart (Center)
 An overlapping column chart comparing actuals (strong color) and targets (faded, 50% transparent color). It features conditional formatting and a dynamic title ("We met targets for 2 out of 14 months") that automatically updates based on the selected team
@@ -58,7 +58,7 @@ Interactive filters allowing the user to slice the data by distinct teams: Delis
 - Detailed Salesperson Table (Bottom Center)
 A comprehensive table showing individual rep data (Picture, Sales person, Actual, Target). It uses conditional formatting: Data bars for Variance %
 Sparklines to visualise individual trend histories
-Custom charts (Sparklines) for target win/loss status over time.
+Sparklines (column) for target win/loss status over time.
 
 •	Business Impact & Insights
 Performance Tracking: Leadership can instantly recognise that the overarching target was only met 2 out of 14 months, signaling a need for strategic adjustments.
@@ -66,3 +66,4 @@ Sales Coaching: By looking at individual sparklines and variance percentages, ma
 Automated Reporting: Smart narratives and dynamic titles automate the storytelling process, dynamically pulling in text insights to save analysts time from having to manually write out monthly performance summaries.
 
 ### 6.	Screenshots / Demos
+![Dashboard preview](https://github.com/izzatyyj/Finance-Sales-KPI-Dashboard/blob/main/Snapshot%20of%20Finance%20Sales%20KPI%20Dashboard.png)
