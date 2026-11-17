@@ -17,7 +17,7 @@ The dashboard was built using the following tools and technologies:<br>
 ### 4.	Data Source
 Source: Custom finance data tables (associated with the "Awesome Chocolates" dataset) provided in Chandoo's Power BI tutorial.<br>
 
-**Tutorial Reference:** [Make an Incredible Finance KPI Dashboard with Power BI in 20 minutes](https://www.youtube.com/watch?v=i3AR0gt9SHA) on YouTube.
+**Reference:** [Make an Incredible Finance KPI Dashboard with Power BI in 20 minutes](https://www.youtube.com/watch?v=i3AR0gt9SHA) on YouTube.
 
 The data is structured across four tables:<br>
 - **Actual performance table:** Contains monthly sales achievements per salesperson.<br>
